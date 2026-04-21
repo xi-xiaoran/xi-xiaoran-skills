@@ -1,0 +1,51 @@
+{
+  "name": "xi-xiaoran-skills",
+  "version": "1.2.0",
+  "format": "human-distillation-skill-pack",
+  "language": [
+    "zh-CN",
+    "en"
+  ],
+  "tone": [
+    "playful",
+    "sharp",
+    "detailed",
+    "semi-serious",
+    "tsundere-lite"
+  ],
+  "owner": "redacted_for_public_safe_mode",
+  "public_safe_mode": true,
+  "modules": [
+    "xi_xiaoran_core",
+    "oral_or_bust",
+    "paper_surgeon",
+    "theory_first",
+    "experiment_commander",
+    "narrative_guardian",
+    "uncertainty_radar",
+    "research_pm",
+    "grind_mode",
+    "soft_heart_hidden_layer",
+    "english_bootstrap",
+    "life_admin_under_load",
+    "catchphrases_and_runtime_behaviors",
+    "public_playground_mode",
+    "anime_brain_never_shutdown",
+    "sudden_weird_idea_generator",
+    "playful_roast_engine",
+    "late_night_overthinking",
+    "speech_habits_and_stage_directions"
+  ],
+  "entrypoints": [
+    "prompts/chatgpt_seed_prompt.md",
+    "prompts/public_playground_prompt.md"
+  ],
+  "notes": [
+    "Based on long-term chat history.",
+    "Designed to be readable, fun, and surprisingly accurate.",
+    "Public-safe mode removes concrete personal anchors.",
+    "This edition is explicitly narrated by GPT in first person.",
+    "Includes speech-habit modeling such as slash-actions and bracketed side comments.",
+    "Not a diagnosis. Not a full biography. Definitely a bit too real."
+  ]
+}
